@@ -7,7 +7,7 @@ You can insert the API key into the gradle.properties files. Add the next line:
 BibleApi="KEY HERE"
 
 The app also uses Google Maps, you can insert a valid key in the string.xml: google_maps_key
-The app uses Firebase RealtimeDatabase, if you want to install the app you will need a google-services.json file, and create a database according to: [Sample for Father Home Database][database_sample.json]
+The app uses Firebase RealtimeDatabase, if you want to install the app you will need a google-services.json file, and create a database according to: [Sample for Father Home Database](database_sample.json)
 
 ![FatherHomeGif1](fatherhome1.gif)
 
