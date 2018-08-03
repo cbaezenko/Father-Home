@@ -1,0 +1,170 @@
+{
+  "dataru" : {
+    "announcements" : [ {
+      "address" : "",
+      "description" : "",
+      "id" : 1,
+      "image_extra_url" : "",
+      "image_url" : "",
+      "price" : "",
+      "short_description" : "",
+      "suggestion" : "",
+      "title" : "",
+      "webPage" : ""
+    }, {
+      "address" : "",
+      "description" : "",
+      "id" : 2,
+      "image_extra_url" : "",
+      "image_url" : "",
+      "price" : "",
+      "short_description" : "",
+      "suggestion" : "",
+      "title" : "",
+      "webPage" : ""
+    } ],
+    "dailybread" : [  {
+      "address" : "",
+      "date" : "",
+      "description" : "",
+      "id" : 1111114
+    } ],
+    "events" : [ {
+      "address" : "",
+      "description" : "",
+      "id" : 1,
+      "image_extra_url" : "",
+      "image_url" : "",
+      "price" : "",
+      "short_description" : "",
+      "suggestion" : "",
+      "title_service" : "",
+      "webPage" : ""
+    }, {
+      "address" : "",
+      "description" : "",
+      "id" : 2,
+      "image_extra_url" : "",
+      "image_url" : "",
+      "price" : "",
+      "short_description" : "",
+      "suggestion" : "",
+      "title_service" : "",
+      "webPage" : ""
+    } ],
+    "our_pastors" : [ {
+      "description" : "",
+      "id" : 1,
+      "imageUrl" : "",
+      "name" : ""
+    }],
+    "pastor_speech" : [ {
+      "audiolink" : "",
+      "date" : "",
+      "description" : "",
+      "id" : 1,
+      "imageUrl" : "",
+      "pastorCode" : 1,
+      "pastorName" : "",
+      "title" : ""
+    } ],
+    "sos_bible" : {
+      "sos_alone" : [ {
+        "address" : "",
+        "date" : "",
+        "description" : "",
+        "id" : 2010001
+      } ],
+      "sos_angry" : [ {
+        "address" : "",
+        "date" : "",
+        "description" : "",
+        "id" : 2020001
+      } ],
+      "sos_depression" : [ {
+        "address" : "",
+        "date" : "",
+        "description" : "",
+        "id" : 2030001
+      }],
+      "sos_economy" : [ {
+        "address" : "",
+        "date" : "",
+        "description" : "",
+        "id" : 2040001
+      }],
+      "sos_fear_of_tomorrow" : [ {
+        "address" : "",
+        "date" : "",
+        "description" : "",
+        "id" : 2050001
+      } ],
+      "sos_forgetting" : [ {
+        "address" : "",
+        "date" : "",
+        "description" : "",
+        "id" : 2060001
+      }],
+      "sos_hope" : [ {
+        "address" : "",
+        "date" : "",
+        "description" : "",
+        "id" : 2070001
+      }],
+      "sos_how_to_forgive" : [ {
+        "address" : "",
+        "date" : "",
+        "description" : "",
+        "id" : 2080001
+      }],
+      "sos_looking_for_forgivness" : [ {
+        "address" : "",
+        "date" : "",
+        "description" : "",
+        "id" : 2090001
+      }],
+      "sos_lost" : [ {
+        "address" : "",
+        "date" : "",
+        "description" : "",
+        "id" : 2100001
+      }],
+      "sos_sad" : [ {
+        "address" : "",
+        "date" : "",
+        "description" : "",
+        "id" : 2110001
+      }],
+      "sos_seeking_peace" : [ {
+        "address" : "",
+        "date" : "",
+        "description" : "",
+        "id" : 2120001
+      }],
+      "sos_sick" : [ {
+        "address" : "",
+        "date" : "",
+        "description" : "",
+        "id" : 2130001
+      } ],
+      "sos_tired" : [ {
+        "address" : "",
+        "date" : "",
+        "description" : "",
+        "id" : 2140001
+      }],
+      "sos_war" : [ {
+        "address" : "",
+        "date" : "",
+        "description" : "",
+        "id" : 2150001
+      }],
+      "sos_weak" : [ {
+        "address" : "",
+        "date" : "",
+        "description" : "",
+        "id" : 2160001
+      } ]
+    }
+  }
+}
