@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="images_sos_array">
+        <item>@drawable/depresion</item>
+        <item>@drawable/rabia</item>
+        <item>@drawable/cansancio</item>
+        <item>@drawable/soledad</item>
+        <item>@drawable/buscando_paz</item>
+        <item>@drawable/esperanza</item>
+        <item>@drawable/debilidad</item>
+        <item>@drawable/tristeza</item>
+        <item>@drawable/dinero</item>
+        <item>@drawable/rin_rumbo</item>
+        <item>@drawable/buscando_el_perdon</item>
+        <item>@drawable/aprender_perdonar</item>
+        <item>@drawable/olvidar</item>
+        <item>@drawable/miedo_futuro</item>
+        <item>@drawable/enfermedad</item>
+        <item>@drawable/guerra</item>
+    </integer-array>
+
+    <string-array name="title_sos_array">
+        <item>@string/sosfragment_depression</item>
+        <item>@string/angry</item>
+        <item>@string/tired</item>
+        <item>@string/alone</item>
+        <item>@string/seeking_peace</item>
+        <item>@string/hope</item>
+        <item>@string/weak</item>
+        <item>@string/sad</item>
+        <item>@string/economy</item>
+        <item>@string/lost</item>
+        <item>@string/looking_for_forgiveness</item>
+        <item>@string/how_to_forgive</item>
+        <item>@string/forgetting</item>
+        <item>@string/fear_of_tomorrow</item>
+        <item>@string/sick</item>
+        <item>@string/war</item>
+    </string-array>
+
+    <string-array name="books_array">
+        <item>@string/mathew</item>
+        <item>@string/mark</item>
+        <item>@string/luke</item>
+        <item>@string/jhon</item>
+    </string-array>
+
+    <string-array name="chapters_mathew_array">
+        <item>1</item><item>2</item><item>3</item>
+        <item>4</item><item>5</item><item>6</item><item>7</item><item>8</item>
+        <item>9</item><item>10</item><item>11</item><item>12</item><item>13</item>
+        <item>14</item><item>15</item><item>16</item><item>17</item><item>18</item>
+        <item>19</item><item>20</item><item>21</item><item>22</item><item>23</item>
+        <item>24</item><item>25</item><item>26</item><item>27</item><item>28</item>
+    </string-array>
+
+    <string-array name="chapters_mark_array">
+        <item>1</item><item>2</item><item>3</item><item>4</item><item>5</item><item>6</item>
+        <item>7</item><item>8</item><item>9</item><item>10</item><item>11</item>
+        <item>12</item><item>13</item><item>14</item><item>15</item><item>16</item>
+    </string-array>
+
+    <string-array name="chapters_luke_array">
+        <item>1</item><item>2</item><item>3</item><item>4</item>
+        <item>5</item><item>6</item><item>7</item><item>8</item><item>9</item>
+        <item>10</item><item>11</item><item>12</item><item>13</item><item>14</item>
+        <item>15</item><item>16</item><item>17</item><item>18</item><item>19</item>
+        <item>20</item><item>21</item><item>22</item><item>23</item><item>24</item>
+    </string-array>
+
+    <string-array name="chapters_jhon_array">
+        <item>1</item><item>2</item><item>3</item><item>4</item><item>5</item><item>6</item>
+        <item>7</item><item>8</item><item>9</item><item>10</item><item>11</item>
+        <item>12</item><item>13</item><item>14</item><item>15</item><item>16</item>
+        <item>17</item><item>18</item><item>19</item><item>20</item><item>21</item>
+    </string-array>
+
+    <string-array name="principios">
+        <item>@string/zennosti_1</item>
+        <item>@string/zennosti_2</item>
+        <item>@string/zennosti_3</item>
+        <item>@string/zennosti_4</item>
+        <item>@string/zennosti_5</item>
+        <item>@string/zennosti_6</item>
+        <item>@string/zennosti_7</item>
+    </string-array>
+
+    <string-array name="vision">
+        <item>@string/videnie_1</item>
+        <item>@string/videnie_2</item>
+        <item>@string/videnie_3</item>
+        <item>@string/videnie_4</item>
+    </string-array>
+
+    <string-array name="estructura">
+        <item>@string/ustroistvo_1</item>
+        <item>@string/ustroistvo_2</item>
+        <item>@string/ustroistvo_3</item>
+        <item>@string/ustroistvo_4</item>
+    </string-array>
+
+    <string-array name="widget_text_array">
+        <item>@string/verse_for_widget_1_text</item>
+        <item>@string/verse_for_widget_2_text</item>
+        <item>@string/verse_for_widget_3_text</item>
+        <item>@string/verse_for_widget_4_text</item>
+    </string-array>
+
+    <string-array name="widget_text_array_address">
+        <item>@string/verse_for_widget_1_address</item>
+        <item>@string/verse_for_widget_2_address</item>
+        <item>@string/verse_for_widget_3_address</item>
+        <item>@string/verse_for_widget_4_address</item>
+    </string-array>
+
+    <!--group array-->
+    <string-array name="group_lat_array">
+        <item>@string/gruppa_rosta_1_lat</item>
+        <item>@string/gruppa_rosta_2_lat</item>
+        <item>@string/gruppa_rosta_3_lat</item>
+        <item>@string/gruppa_rosta_4_lat</item>
+        <item>@string/gruppa_rosta_5_lat</item>
+        <item>@string/gruppa_rosta_6_lat</item>
+        <item>@string/gruppa_rosta_7_lat</item>
+        <item>@string/gruppa_rosta_8_lat</item>
+        <item>@string/gruppa_rosta_9_lat</item>
+        <item>@string/gruppa_rosta_10_lat</item>
+        <item>@string/gruppa_rosta_11_lat</item>
+        <item>@string/gruppa_rosta_12_lat</item>
+        <item>@string/gruppa_rosta_13_lat</item>
+        <item>@string/gruppa_rosta_14_lat</item>
+        <item>@string/gruppa_rosta_15_lat</item>
+        <item>@string/gruppa_rosta_16_lat</item>
+    </string-array>
+
+    <string-array name="group_lon_array">
+        <item>@string/gruppa_rosta_1_lon</item>
+        <item>@string/gruppa_rosta_2_lon</item>
+        <item>@string/gruppa_rosta_3_lon</item>
+        <item>@string/gruppa_rosta_4_lon</item>
+        <item>@string/gruppa_rosta_5_lon</item>
+        <item>@string/gruppa_rosta_6_lon</item>
+        <item>@string/gruppa_rosta_7_lon</item>
+        <item>@string/gruppa_rosta_8_lon</item>
+        <item>@string/gruppa_rosta_9_lon</item>
+        <item>@string/gruppa_rosta_10_lon</item>
+        <item>@string/gruppa_rosta_11_lon</item>
+        <item>@string/gruppa_rosta_12_lon</item>
+        <item>@string/gruppa_rosta_13_lon</item>
+        <item>@string/gruppa_rosta_14_lon</item>
+        <item>@string/gruppa_rosta_15_lon</item>
+        <item>@string/gruppa_rosta_16_lon</item>
+    </string-array>
+
+    <string-array name="group_name_array">
+        <item>@string/gruppa_rosta_1_name</item>
+        <item>@string/gruppa_rosta_2_name</item>
+        <item>@string/gruppa_rosta_3_name</item>
+        <item>@string/gruppa_rosta_4_name</item>
+        <item>@string/gruppa_rosta_5_name</item>
+        <item>@string/gruppa_rosta_6_name</item>
+        <item>@string/gruppa_rosta_7_name</item>
+        <item>@string/gruppa_rosta_8_name</item>
+        <item>@string/gruppa_rosta_9_name</item>
+        <item>@string/gruppa_rosta_10_name</item>
+        <item>@string/gruppa_rosta_11_name</item>
+        <item>@string/gruppa_rosta_12_name</item>
+        <item>@string/gruppa_rosta_13_name</item>
+        <item>@string/gruppa_rosta_14_name</item>
+        <item>@string/gruppa_rosta_15_name</item>
+        <item>@string/gruppa_rosta_16_name</item>
+    </string-array>
+
+    <string-array name="group_phone_array">
+        <item>@string/gruppa_rosta_1_phone</item>
+        <item>@string/gruppa_rosta_2_phone</item>
+        <item>@string/gruppa_rosta_3_phone</item>
+        <item>@string/gruppa_rosta_4_phone</item>
+        <item>@string/gruppa_rosta_5_phone</item>
+        <item>@string/gruppa_rosta_6_phone</item>
+        <item>@string/gruppa_rosta_7_phone</item>
+        <item>@string/gruppa_rosta_8_phone</item>
+        <item>@string/gruppa_rosta_9_phone</item>
+        <item>@string/gruppa_rosta_10_phone</item>
+        <item>@string/gruppa_rosta_11_phone</item>
+        <item>@string/gruppa_rosta_12_phone</item>
+        <item>@string/gruppa_rosta_13_phone</item>
+        <item>@string/gruppa_rosta_14_phone</item>
+        <item>@string/gruppa_rosta_15_phone</item>
+        <item>@string/gruppa_rosta_16_phone</item>
+    </string-array>
+
+    <string-array name="group_time_array">
+        <item>@string/gruppa_rosta_1_time</item>
+        <item>@string/gruppa_rosta_2_time</item>
+        <item>@string/gruppa_rosta_3_time</item>
+        <item>@string/gruppa_rosta_4_time</item>
+        <item>@string/gruppa_rosta_5_time</item>
+        <item>@string/gruppa_rosta_6_time</item>
+        <item>@string/gruppa_rosta_7_time</item>
+        <item>@string/gruppa_rosta_8_time</item>
+        <item>@string/gruppa_rosta_9_time</item>
+        <item>@string/gruppa_rosta_10_time</item>
+        <item>@string/gruppa_rosta_11_time</item>
+        <item>@string/gruppa_rosta_12_time</item>
+        <item>@string/gruppa_rosta_13_time</item>
+        <item>@string/gruppa_rosta_14_time</item>
+        <item>@string/gruppa_rosta_15_time</item>
+        <item>@string/gruppa_rosta_16_time</item>
+    </string-array>
+    <!--church array-->
+    <string-array name="church_address_array">
+        <item>@string/church_location_raushkaya_address</item>
+        <item>@string/church_location_luzhniki_address</item>
+    </string-array>
+    <string-array name="church_lat_array">
+        <item>@string/church_location_raushkaya_lat</item>
+        <item>@string/church_location_luzhniki_lat</item>
+    </string-array>
+
+    <string-array name="church_lon_array">
+        <item>@string/church_location_raushkaya_long</item>
+        <item>@string/church_location_luzhniki_long</item>
+    </string-array>
+
+    <string-array name="church_time_array">
+        <item>@string/church_location_raushkaya_service_hour</item>
+        <item>@string/church_location_luzhniki_service_hour</item>
+    </string-array>
+
+    <string-array name="array_licences">
+        <item>@string/android_license</item>
+        <item>@string/butterknife_licence</item>
+        <item>@string/timber_license</item>
+        <item>@string/picasso_license</item>
+        <item>@string/material_design_icons</item>
+        <item>@string/bible_license</item>
+    </string-array>
+
+    <string-array name="array_song_title">
+        <item>@string/song_1_title</item>
+        <item>@string/song_2_title</item>
+        <item>@string/song_3_title</item>
+        <item>@string/song_4_title</item>
+        <!--<item>@string/song_5_title</item>-->
+        <!--<item>@string/song_6_title</item>-->
+    </string-array>
+    <string-array name="array_song_author">
+        <item>@string/song_1_author</item>
+        <item>@string/song_2_author</item>
+        <item>@string/song_3_author</item>
+        <item>@string/song_4_author</item>
+        <!--<item>@string/song_5_author</item>-->
+        <!--<item>@string/song_6_author</item>-->
+    </string-array>
+    <string-array name="array_song_text">
+        <item>@string/song_1_text</item>
+        <item>@string/song_2_text</item>
+        <item>@string/song_3_text</item>
+        <item>@string/song_4_text</item>
+        <!--<item>@string/song_5_text</item>-->
+        <!--<item>@string/song_6_text</item>-->
+    </string-array>
+    <string-array name="array_song_license">
+        <item>@string/song_1_license</item>
+        <item>@string/song_2_license</item>
+        <item>@string/song_3_license</item>
+        <item>@string/song_4_license</item>
+        <!--<item>@string/song_5_license</item>-->
+        <!--<item>@string/song_6_license</item>-->
+    </string-array>
+</resources>

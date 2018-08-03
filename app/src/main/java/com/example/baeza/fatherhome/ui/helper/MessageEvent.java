@@ -1,0 +1,4 @@
+package com.example.baeza.fatherhome.ui.helper;
+
+public class MessageEvent {
+}

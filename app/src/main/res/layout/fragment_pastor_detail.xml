@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".ui.view.ourPastor.PastorDetailFragment">
+
+    <TextView
+        android:contentDescription="@string/description_pastor"
+        android:id="@+id/tv_pastor_description"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:lineSpacingExtra="8sp"
+        android:padding="16dp"
+        android:textAlignment="viewStart"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="@android:color/black"/>
+
+</FrameLayout>

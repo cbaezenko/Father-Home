@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.example.baeza.fatherhome">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version"/>
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key"/>
+
+        <activity
+            android:name=".ui.view.MainActivity"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.view.sos.SosListActivity"
+            android:parentActivityName=".ui.view.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.baeza.fatherhome.ui.view.MainActivity"/>
+        </activity>
+        <activity
+            android:name=".ui.view.ShowVersicleActivity"
+            android:parentActivityName=".ui.view.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.baeza.fatherhome.ui.view.MainActivity"/>
+        </activity>
+        <activity
+            android:name=".ui.view.audioSpeech.AudioSpeechListActivity"
+            android:parentActivityName=".ui.view.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.baeza.fatherhome.ui.view.MainActivity"/>
+        </activity>
+        <activity
+            android:name=".ui.view.ourPastor.PastorListActivity"
+            android:parentActivityName=".ui.view.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.baeza.fatherhome.ui.view.MainActivity"/>
+        </activity>
+        <activity
+            android:name=".ui.view.ourPastor.PastorDetailActivity"
+            android:parentActivityName=".ui.view.ourPastor.PastorListActivity"/>
+        <activity
+            android:name=".ui.view.churchMap.ChurchMapActivity"
+            android:parentActivityName=".ui.view.MainActivity"/>
+        <activity
+            android:name=".ui.view.audioSpeech.AudioSpeechDetailActivity"
+            android:parentActivityName=".ui.view.audioSpeech.AudioSpeechListActivity"/>
+
+        <receiver android:name=".ui.view.audioSpeech.AudioSpeechDetailFragment$MediaReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_BUTTON"/>
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".ui.view.onlineTransmission.OnlineTransmissionActivity"
+            android:parentActivityName=".ui.view.MainActivity"/>
+        <activity
+            android:name=".ui.view.about.AboutActivity"
+            android:parentActivityName=".ui.view.MainActivity"/>
+        <activity
+            android:name=".ui.view.about.AboutDetailActivity"
+            android:parentActivityName=".ui.view.about.AboutActivity"/>
+        <activity
+            android:name=".ui.view.licences.LicenceActivity"
+            android:parentActivityName=".ui.view.MainActivity">
+        </activity>
+        <activity
+            android:name=".ui.view.favorite.FavoriteActivity"
+            android:parentActivityName=".ui.view.MainActivity">
+        </activity>
+
+        <receiver android:name=".widget.FatherHomeWidget">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/father_home_widget_info"/>
+        </receiver>
+        <receiver
+            android:name=".ui.helper.BroadCastReceiverNotificationDelete"
+            android:exported="false"/>
+
+        <activity
+            android:name=".ui.view.songs.SongListActivity"
+            android:parentActivityName=".ui.view.MainActivity">
+        </activity>
+        <activity android:name=".ui.view.songs.SongDetailActivity"
+            android:parentActivityName=".ui.view.songs.SongListActivity">
+        </activity>
+    </application>
+
+</manifest>

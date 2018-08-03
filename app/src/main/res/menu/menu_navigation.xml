@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/nav_main_group"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_church_about"
+            android:contentDescription="@string/nav_about_church"
+            android:icon="@drawable/ic_church"
+            android:title="@string/nav_about_church"/>
+
+        <item
+            android:id="@+id/nav_our_pastors"
+            android:contentDescription="@string/nav_our_pastors"
+            android:icon="@drawable/ic_christianity"
+            android:title="@string/nav_our_pastors"/>
+        <item
+            android:id="@+id/nav_favorite"
+            android:contentDescription="@string/nav_favorite"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="@string/nav_favorite"/>
+        <!--<item-->
+        <!--android:contentDescription="@string/nav_chat"-->
+        <!--android:id="@+id/chat"-->
+        <!--android:icon="@drawable/ic_chat_black_24dp"-->
+        <!--android:title="@string/nav_chat"/>-->
+        <item
+            android:id="@+id/nav_online_transmission"
+            android:contentDescription="@string/nav_online"
+            android:icon="@drawable/ic_videocam_black_24dp"
+            android:title="@string/nav_online"/>
+        <item
+            android:id="@+id/nav_speech"
+            android:contentDescription="@string/nav_speech"
+            android:icon="@drawable/ic_wb_incandescent_black_24dp"
+            android:title="@string/nav_speech"/>
+
+        <item
+            android:id="@+id/nav_songs"
+            android:contentDescription="@string/hymn_list"
+            android:icon="@drawable/ic_music_note_black_24dp"
+            android:title="@string/hymn_list"/>
+
+        <item
+            android:id="@+id/nav_find_local_church"
+            android:contentDescription="@string/nav_near_you"
+            android:icon="@drawable/ic_map_black_24dp"
+            android:title="@string/nav_near_you"/>
+    </group>
+    <group
+        android:id="@+id/nav_group_settings"
+        android:checkableBehavior="single">
+        <!--&lt;!&ndash;<item&ndash;&gt;-->
+        <!--&lt;!&ndash;android:icon="@drawable/ic_settings_black_24dp"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:id="@+id/nav_settings"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:title="@string/nav_settings"/>&ndash;&gt;-->
+
+        <item
+            android:id="@+id/nav_licenses"
+            android:contentDescription="@string/nav_about_app"
+            android:icon="@drawable/ic_description_black_24dp"
+            android:title="@string/nav_about_app"/>
+    </group>
+</menu>

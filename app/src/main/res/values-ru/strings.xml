@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Дом Отца</string>
+
+    <string name="sos_fragment_title">SOS</string>
+    <string name="daily_bread_title">Хлеб насущный</string>
+    <string name="bible_fragment">Библия</string>
+
+    <string name="sosfragment_depression">Депрессия</string>
+    <string name="angry">Гнев</string>
+    <string name="tired">Усталость</string>
+    <string name="alone">Одиночество</string>
+    <string name="seeking_peace">Поиск мира</string>
+    <string name="hope">Надежда</string>
+    <string name="weak">Слабость</string>
+    <string name="sad">Печаль</string>
+    <string name="economy">Финансовые трудности</string>
+    <string name="lost">Сомнения</string>
+    <string name="looking_for_forgiveness">В поисках прощения</string>
+    <string name="how_to_forgive">Научиться прощать</string>
+    <string name="forgetting">Научиться забывать</string>
+    <string name="fear_of_tomorrow">Страх перед будущим</string>
+    <string name="sick">Болезнь</string>
+    <string name="war">Духовная  война</string>
+
+    <string name="favorite_toolbar_title">Избранное</string>
+    <string name="speech">Проповедь</string>
+
+    <string name="toolbar_title_speech">Проповеди</string>
+    <string name="online_transmission">Прямая трансляция</string>
+
+
+    <string name="mathew">Матфей</string>
+    <string name="mark">Марк</string>
+    <string name="luke">Луке</string>
+    <string name="jhon">Иоанн</string>
+    <string name="about_missia">Миция</string>
+    <string name="selected_language">Русский язык активен</string>
+    <string name="language_russian">Русский</string>
+    <string name="language_english">Английский</string>
+    <string name="gruppa_rosta_15_name">Роман</string>
+    <string name="about_zennosti">Ценности</string>
+    <string name="about_vision">Видение</string>
+    <string name="estructura">Устройство</string>
+    <string name="verse_for_widget_4_text">Помощь моя от Господа, сотворившего небо и землю.</string>
+    <string name="verse_for_widget_4_address">Псалтирь 121:2 RUSV</string>
+    <string name="verse_for_widget_3_address">Псалтирь 119:60 RUSV</string>
+    <string name="verse_for_widget_3_text">Спешил и не медлил соблюдать заповеди Твои.</string>
+    <string name="verse_for_widget_2_text">Начало мудрости--страх Господень, и познание Святаго--разум;</string>
+    <string name="verse_for_widget_2_address">Притчи 9:10 RUSV</string>
+    <string name="verse_for_widget_1_text">Живущий под кровом Всевышнего под сенью Всемогущего покоится,</string>
+    <string name="verse_for_widget_1_address">Псалтирь 91:1 RUSV</string>
+    <string name="nav_about_church">О церкви Дом Отца</string>
+    <string name="nav_speech">Проповедь</string>
+    <string name="nav_near_you">Как нас найти</string>
+    <string name="nav_about_app">О приложении</string>
+    <string name="nav_favorite">Избранное</string>
+    <string name="nav_online">Прямая трансляция</string>
+    <string name="nav_our_pastors">Наши пасторы</string>
+    <string name="church_map_toolbar_title">Как нас найти</string>
+    <string name="about_father_home">О церкви Дом Отца</string>
+    <string name="toolbar_title_song_detail">Song Detail</string>
+    <string name="hymn_list">Прославление</string>
+</resources>
