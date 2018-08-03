@@ -9,6 +9,8 @@ BibleApi="KEY HERE"
 The app also uses Google Maps, you can insert a valid key in the string.xml: google_maps_key
 
 ![FatherHomeGif1](fatherhome1.gif)
+![FatherHomeGif2](fatherhome2.gif)
+![FatherHomeGif3](fatherhome3.gif)
 
 ## Common Project Requirements
 
