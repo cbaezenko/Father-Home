@@ -15,6 +15,8 @@ The app uses Firebase RealtimeDatabase, if you want to install the app you will 
 
 ![FatherHomeGif3](fatherhome3.gif)
 
+![FatherHomeGif4](fatherhome4.gif)
+
 ## Common Project Requirements
 
 App conforms to common standards found in the Android Nanodegree General Project Guidelines
