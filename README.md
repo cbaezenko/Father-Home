@@ -8,6 +8,8 @@ BibleApi="KEY HERE"
 
 The app also uses Google Maps, you can insert a valid key in the string.xml: google_maps_key
 
+![FatherHomeGif1](fatherhome1.gif)
+
 ## Common Project Requirements
 
 App conforms to common standards found in the Android Nanodegree General Project Guidelines
