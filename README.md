@@ -19,7 +19,7 @@ The app uses Firebase RealtimeDatabase, if you want to install the app you will 
 
 ## Common Project Requirements
 
-App conforms to common standards found in the Android Nanodegree General Project Guidelines
+App conforms to common standards found in the [Android Nanodegree General Project Guidelines](http://udacity.github.io/android-nanodegree-guidelines/core.html)
 App is written solely in the Java Programming Language
 App utilizes stable release versions of all libraries, Gradle, and Android Studio.
 
