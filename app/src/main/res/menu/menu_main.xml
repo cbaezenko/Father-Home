@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
 <item android:title="@string/language_russian"
       android:id="@+id/russian_lang"/>
     <item android:title="@string/language_english"
@@ -8,4 +9,8 @@
           android:title="@string/language_spanish"/>
     <item android:id="@+id/portuguese_lang"
           android:title="@string/language_portuguese"/>
+    <item android:id="@+id/logout"
+          android:visible="true"
+          app:showAsAction="ifRoom"
+          android:title="@string/menu_logout"/>
 </menu>

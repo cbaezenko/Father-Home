@@ -11,23 +11,28 @@
     <string name="language_english">English</string>
     <string name="language_spanish">Spanish</string>
     <string name="language_portuguese">Portuguese</string>
+    <string name="menu_logout">Logout</string>
+
+    <string name="menu_logout_account">Logout current account?</string>
+    <string name="menu_logout_logout">Logout</string>
+    <string name="all_cancel">Cancel</string>
 
     <string name="channel_id">FatherHomeIdChannel</string>
     <string name="channel_name">Father Home Channel</string>
     <string name="channel_description">Father Home</string>
 
-    <string name="bible_copyright">Bible copyright</string>
+    <string name="bible_copyright" translatable="false">Bible copyright</string>
     <string name="spinner_book">Spinner with books</string>
     <string name="spinner_chapter">Spinner with chapters</string>
     <string name="button_search">Button search</string>
 
     <string name="image_sos">Image sos</string>
 
-    <string name="web_view">Web View</string>
+    <string name="web_view" translatable="false">Web View</string>
 
     <string name="toolbar_title_speech">Pastor\'s Speech</string>
 
-    <string name="text_example">Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit,\nsed eiusmod tempor incidunt ut labore et dolore magna aliqua.\nUt enim ad minim veniam,\nquis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat.\nQuis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nExcepteur sint obcaecat cupiditat non proident,\nsunt in culpa qui officia deserunt mollit anim id est laborum</string>
+    <string name="text_example" translatable="false">Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit,\nsed eiusmod tempor incidunt ut labore et dolore magna aliqua.\nUt enim ad minim veniam,\nquis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat.\nQuis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nExcepteur sint obcaecat cupiditat non proident,\nsunt in culpa qui officia deserunt mollit anim id est laborum</string>
 
     <string name="show_more_button">SHOW</string>
     <string name="button_share">Button Share</string>
@@ -103,20 +108,20 @@
     <string name="luke">Luke</string>
     <string name="jhon">Jhon</string>
 
-    <string name="zennosti_1">Христоцентричная Церков (Евангелие в центре всего)</string>
-    <string name="zennosti_2">Библейская церков (Священное Писание - едиственный авторитет во всех вопросах веры и жизни)</string>
-    <string name="zennosti_3">Церковь, которая ценит семью (комплексная помощь семье)</string>
-    <string name="zennosti_4">Многонациональная церковь(приобретение учеников из всех народов)</string>
-    <string name="zennosti_5">Благословляющая церковь(культура поддержки и благословения)</string>
-    <string name="zennosti_6">Современная церковь(сохраняя содержание, адаптивная в формах)</string>
-    <string name="zennosti_7">Умножающаяся церковь (воспитание учеников, вращивание служителей, открытие новых групп, основание новых церквей)</string>
+    <string name="zennosti_1">Христоцентричная церковь (Евангелие в центре всего)</string>
+    <string name="zennosti_2">Библейская церковь (Священное Писание - единственный авторитет во всех вопросах веры и жизни)</string>
+    <string name="zennosti_3">Церковь, которая ценит семью (комплексная помощь семьям)</string>
+    <string name="zennosti_4">Многонациональная церковь (приобретение учеников из всех народов)</string>
+    <string name="zennosti_5">Благословляющая церковь (культура поддержки и благословения)</string>
+    <string name="zennosti_6">Современная церковь (сохраняя содержание, адаптивна в формах)</string>
+    <string name="zennosti_7">Умножающаяся церковь (воспитание учеников, взращивание служителей, открытие новых групп роста, основание новых церквей)</string>
 
-    <string name="ustroistvo_1">Командное руководство (главный пастырт - Христос)</string>
+    <string name="ustroistvo_1">Командное руководство (главный пастырь - Христос)</string>
     <string name="ustroistvo_2">Вдохновляющее собрание (еженедельная встреча общины и периодическая встреча всех общин церкви)</string>
-    <string name="ustroistvo_3">Группа роста(еженедельная встреча духовной подотчетности)</string>
+    <string name="ustroistvo_3">Группа роста (еженедельная встреча духовной подотчетности)</string>
     <string name="ustroistvo_4">Персональная ответственность в приобретении учеников</string>
 
-    <string name="videnie_1">Приобретать учеников Иисуса Христа (Мф.28:18–20)</string>
+    <string name="videnie_1">Приобретение учеников Иисуса Христа (Мф.28:18–20)</string>
     <string name="videnie_2">Благовестие и ученичество (ответственность каждого)</string>
     <string name="videnie_3">Служение духовными дарами (раскрытие потенциала для общества)</string>
     <string name="videnie_4">Разделять общение святых (ценить каждую встречу учеников Христа)</string>
@@ -318,57 +323,92 @@ limitations under the License.\n
 
     <string name="hymn_list">Himnos</string>
 
-    <string name="song_1_title">Великий Бог</string>
-    <string name="song_2_title">Славь душа Господа</string>
-    <string name="song_3_title">Ты искупил мир от греха</string>
-    <string name="song_4_title">Ты Над Городом Этим</string>
-    <!--<string name="song_5_title">@string/text_example</string>-->
-    <!--<string name="song_6_title">@string/text_example</string>-->
+    <string name="song_1_title">Благословений потоки</string>
+    <string name="song_2_title">Великий Бог</string>
+    <string name="song_3_title">Всякий жаждущий, иди и пей</string>
+    <string name="song_4_title">Славь душа Господа</string>
+    <string name="song_5_title">Ты искупил мир от греха</string>
+    <string name="song_6_title">Ты над городом этим</string>
+    <string name="song_7_title">У ног Твоих</string>
+    <string name="song_8_title">Что за Друга мы имеем</string>
+    <string name="song_9_title">Всякий жаждущий, иди и пей</string>
 
-    <string name="song_1_author"> Carl Boberg</string>
-    <string name="song_2_author">Слово Жизни Youth</string>
+
+    <string name="song_1_author"></string>
+    <string name="song_2_author"> Carl Boberg</string>
     <string name="song_3_author"></string>
-    <string name="song_4_author">WorshipTogether</string>
-    <!--<string name="song_5_author">@string/text_example</string>-->
-    <!--<string name="song_6_author">@string/text_example</string>-->
+    <string name="song_4_author">Слово Жизни Youth</string>
+    <string name="song_5_author"></string>
+    <string name="song_6_author">WorshipTogether</string>
+    <string name="song_7_author">Сила Веры</string>
+    <string name="song_8_author">Charles Crozat Converse</string>
 
-    <string name="song_1_text">Великий Бог! Когда на мир смотрю я,\nНа все, что Ты создал рукой Творца,
+    <string name="song_1_text">Благословений потоки\nБог обещал ниспослать,\nБлижним, чужим и далеким\nРадость небесную дать.
+\n\nБлагословенья (Божьи благословенья)\nС неба польются дождем.\nПадают капля за каплей,\nБоже, потоков мы ждем.
+\n\nБлагословений потоки\nВсе освежат, оживят;\nНивы, холмы и дороги\nЖизнью опять закипят.
+\n\nБлагословений потоки,\nГосподи, свыше пошли!\nВ дом Твой введи одиноких,\nСловом больных исцели.
+\n\nБлагословений потоки\nДа наполняют весь Дом.\nЧувствуем наши пороки,\nПадаем ниц пред Христом.
+    \n\nБлагословений потоки\nБог в Свое время пошлет,\nЕсли во свете мы ходим,\nЕсли Он с нами Живет.</string>
+
+    <string name="song_2_text">Великий Бог! Когда на мир смотрю я,\nНа все, что Ты создал рукой Творца,
 \nНа всех существ, кого, Свой свет даруя,\nПитаешь Ты любовию Отца, –\nТогда поет мой дух, Господь к Тебе:\nКак Ты велик, как Ты велик!
-\n\nКогда весной природа расцветает,\nИ слышно в дальней роще соловья,\nИ аромат долины грудь вдыхает,\nИ слух ласкает звонкий шум ручья, –
-\n\nКогда смотрю я к небу, к звездам млечным,\nГде дивно светлые миры текут,\nГде солнце и луна в эфире вечном,\nКак в океане корабли, плывут, –
+\n\nКогда весной природа расцветает,\nИ слышно в дальней роще соловья,\nИ аромат долины грудь вдыхает,\nИ слух ласкает звонкий шум ручья,
+\n\nКогда смотрю я к небу, к звездам млечным,\nГде дивно светлые миры текут,\nГде солнце и луна в эфире вечном,\nКак в океане корабли плывут,
 \n\nКогда Господь меня Сам призывает,\nИ светит луч сияния Его,\nТогда мой дух в смирении смолкает,\nПризнав величье Бога Своего.</string>
-    <string name="song_2_text">Припев:\n\nСлавь, душа, Господа, Славь, душа,\nИмя Святое Его.\nПой Ему, как никогда, пой, душа,\nБлагослови Господа.
-\n\n1 Куплет:\n\nСолнце встаёт, новый день приходит,\nВремя опять хвалу воздать\nЗа всё, что Ты мне дал, и за каждый новый вдох мой\nЯ буду петь и на закате дня.
-\n\n2 Куплет:\nВелик в любви, и даёшь мне милость,\nТы справедлив и так благ ко мне,\nЗа все Твои дела я хочу прославить\nЧтоб петь Тебе, есть 10 тысяч причин.
-\n\n3 Куплет:\nИ когда мои силы иссякнут\nНа закате дней, когда время придёт,\nДуша моя Тебя да будет славить\nБольше, чем даже 10 тысяч лет.</string>
-    <string name="song_3_text">Ты искупил мир от греха,\nТы дал ему любовь и свет.\nЗажег потухшие сердца\nИ дал надежду.
+
+    <string name="song_3_text">Всякий жаждущий, иди и пей\nС источника воды живой.\nКто верит в Сына, кто любит Сына,\nВсю твою жизнь Он обновит!
+\n\nАллилуйя! Тебе хвала!\nАллилуйя! Тебе хвала!\nАллилуйя! Тебе хвала!\nАллилуйя! Тебе, Иисус, хвала!
+\n\nАллилуйя! Тебе хвала!\nАллилуйя! Тебе хвала!\nАллилуйя! Тебе хвала!\nАллилуйя! Тебе, Иисус, хвала!
+\n\nЕсли ты устал, изнемог идти,\nОн рад помочь на земном пути,\nНоши все снимает, силы обновляет,\nВо всех скорбях помощник только Он.
+\n\nАллилуйя! Тебе хвала!\nАллилуйя! Тебе хвала!\nАллилуйя! Тебе хвала!\nАллилуйя! Тебе, Иисус, хвала!
+\n\nАллилуйя! Тебе хвала!\nАллилуйя! Тебе хвала!\nАллилуйя! Тебе хвала!\nАллилуйя! Тебе, Иисус, хвала!
+\n\nТы проси огня, и Он даст тебе.\nВстанешь радостно, и вперёд пойдёшь.\nЛишь Ему доверься, на Него надейся,\nВсю твою жизнь Он обновит!
+\n\nАллилуйя! Тебе хвала!\nАллилуйя! Тебе хвала!\nАллилуйя! Тебе хвала!\nАллилуйя! Тебе, Иисус, хвала!
+\n\nАллилуйя! Тебе хвала!\nАллилуйя! Тебе хвала!\nАллилуйя! Тебе хвала!\nАллилуйя! Тебе, Иисус, хвала!</string>
+
+    <string name="song_4_text">nСлавь, душа, Господа, Славь, душа,\nИмя Святое Его.\nПой Ему, как никогда, пой, душа,\nБлагослови Господа.
+\nСолнце встаёт, новый день приходит,\nВремя опять хвалу воздать\nЗа всё, что Ты мне дал,\nИ за каждый новый вдох мой Я буду петь и на закате дня.
+\nВелик в любви, и даёшь мне милость,\nТы справедлив и так благ ко мне,\nЗа все Твои дела я хочу прославить\nЧтоб петь Тебе, есть 10 тысяч причин.
+\nИ когда мои силы иссякнут\nНа закате дней, когда время придёт,\nДуша моя Тебя да будет славить.\nБольше, чем даже 10 тысяч лет.</string>
+
+    <string name="song_5_text">Ты искупил мир от греха,\nТы дал ему любовь и свет.\nЗажег потухшие сердца\nИ дал надежду.
 \n\nМы пред Тобою предстоим,\nИ каждый дорог для Тебя.\nЗа все Отец благодарим\nИ превозносим.
-        \n\nПрипев: Слава Тебе и величье,\nСлава в веках и народах.\nСила Твоя безгранична,\nМилость Твоя во все роды.
+        \n\nСлава Тебе и величье,\nСлава в веках и народах.\nСила Твоя безгранична,\nМилость Твоя во все роды.
 \n\nТы открываешь новый мир,\nЛюбви, Надежд и чистоты.\nС тобой не трудно мне идти,\nВедь ты со мною.
 \n\nТвоя любовь меня хранит,\nДает надежду и покой,\nИ потому сердца людей,\nПолны хвалою.
 \n\nХриста увидеть – цель моя,\nОб этом лишь мечтаю я.\nИ через бури и дожди,\nИду на встречу.
 \n\nТы Бог Царей и Бог рабов,\nТы бедных и богатых Бог.\nТы Бог неведомых миров,\nТебя я Славлю.</string>
 
-    <string name="song_4_text">Ты Над Городом Этим
-        \n\nТы над городом этим\nИ над этим народом,\nИ над этой страною, _Господь.
-\n\nТы во тьме освещаешь,\nОзаряешь надеждой,\nУтешаешь Собою, _Господь.
-\n\nПРЕДПРИПЕВ\nНет _такого как наш Бог\nНет _такого как наш Бог
-\n\nПРИПЕВ
-\n\nЕщё сильнее дни грядут,\nЕщё свершения большие ждут\nЭтот го-оро-о-о-од.
+    <string name="song_6_text">Ты Над Городом Этим\nИ над этим народом,\nИ над этой страною, Господь.
+\n\nТы во тьме освещаешь,\nОзаряешь надеждой,\nУтешаешь Собою, Господь.
+\nНет такого как наш Бог\nНет такого как наш Бог
+\n\nЕщё сильнее дни грядут,\nЕщё свершения большие ждут\nЭтот город.
 \n\nТы наш Царь и Правитель\nТы – Господь и Спаситель\nНашим городом правишь\nЛишь Ты
 \n\nТы Свой свет проливаешь\nТы в беде утешаешь\nНашу жизнь наполняешь\nЛишь Ты
 \n\nНет таких, как наш Бог\nНет таких, как наш Бог
 \n\nГрядет пора больших чудес\nГосподь прольет благодать с небес\nВ этот город\n\nГрядет пора больших чудес\nГосподь прольет благодать с небес\nЗдесь
 </string>
-    <!--<string name="song_5_text">@string/text_example</string>-->
-    <!--<string name="song_6_text">@string/text_example</string>-->
+
+    <string name="song_7_text">Склонюсь у ног Твоих, прославлю лишь Тебя\nНет в мире никого роднее для меня.\nЛишь только Ты мой Бог - дыхание моё,\nЖивой воды поток - присутствие Твоё
+\n\nПрославляю я Тебя\nЗа милость и любовь\nСлавлю имя я Твоё\nБог мой
+\n\nВсей душою хвалю\nИ возношу Тебя\nВ моём сердце всегда\nГорит любовь Твоя\nДля Тебя буду петь всегда\nМой Господь я люблю Тебя\nВся жизнь моя в Тебе, Бог мой</string>
+
+    <string name="song_8_text">Что за Друга мы имеем!\nНас Он к жизни пробудил,\nВ Нем мы счастием владеем,\nВ Нем источник вечных сил.
+\nАх, как часто мы страдали,\nБоль терпя напрасно там,\nГде просить мы забывали,\nЧтоб один помог Он нам.
+\n\nИскушенье ль нас тревожит,\nПытки ль тяжки для кого -\nКаждый пусть из нас возложит\nСкорбь свою всю на Него.\nОн один среди вселенной
+        \nМожет свет средь тьмы пролить,\nЛишь Христос один мгновенно\nМожет горе облегчить.
+\n\nИзнываем мы от зноя\nВ этой жизни суетной;\nСердце лишь Ему откроем,\nИ Он даст душе покой.\nЕсли нас друзья забыли
+\nСкажем Господу о том,\nИ Христос проявит в силе,\nЧто Он верный Друг во всем</string>
+
 
     <string name="song_1_license"></string>
     <string name="song_2_license"></string>
     <string name="song_3_license"></string>
-    <string name="song_4_license">2006 worshiptogether.com Songs sixsteps Music (ASCAP)\nAaron Boyd, Richard Bleakley, Peter Comfort, Peter Kernaghan, Andrew McCann, and Ian Jordan\n'GOD OF THIS CITY</string>
-    <!--<string name="song_5_license"></string>-->
-    <!--<string name="song_6_license"></string>-->
+    <string name="song_4_license"></string>
+    <string name="song_5_license">2006 worshiptogether.com Songs sixsteps Music (ASCAP)\nAaron Boyd, Richard Bleakley, Peter Comfort, Peter Kernaghan, Andrew McCann, and Ian Jordan\n'GOD OF THIS CITY</string>
+    <string name="song_6_license"></string>
+    <string name="song_7_license"></string>
+    <string name="song_8_license"></string>
 
     <string name="toolbar_title_song_detail">Song Detail</string>
     <string name="verse_for_widget_1_text">You can go to God Most High to hide. You can go to God All-Powerful for protection.</string>

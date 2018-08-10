@@ -242,31 +242,31 @@
         <item>@string/song_2_title</item>
         <item>@string/song_3_title</item>
         <item>@string/song_4_title</item>
-        <!--<item>@string/song_5_title</item>-->
-        <!--<item>@string/song_6_title</item>-->
+        <item>@string/song_5_title</item>
+        <item>@string/song_6_title</item>
     </string-array>
     <string-array name="array_song_author">
         <item>@string/song_1_author</item>
         <item>@string/song_2_author</item>
         <item>@string/song_3_author</item>
         <item>@string/song_4_author</item>
-        <!--<item>@string/song_5_author</item>-->
-        <!--<item>@string/song_6_author</item>-->
+        <item>@string/song_5_author</item>
+        <item>@string/song_6_author</item>
     </string-array>
     <string-array name="array_song_text">
         <item>@string/song_1_text</item>
         <item>@string/song_2_text</item>
         <item>@string/song_3_text</item>
         <item>@string/song_4_text</item>
-        <!--<item>@string/song_5_text</item>-->
-        <!--<item>@string/song_6_text</item>-->
+        <item>@string/song_5_text</item>
+        <item>@string/song_6_text</item>
     </string-array>
     <string-array name="array_song_license">
         <item>@string/song_1_license</item>
         <item>@string/song_2_license</item>
         <item>@string/song_3_license</item>
         <item>@string/song_4_license</item>
-        <!--<item>@string/song_5_license</item>-->
-        <!--<item>@string/song_6_license</item>-->
+        <item>@string/song_5_license</item>
+        <item>@string/song_6_license</item>
     </string-array>
 </resources>

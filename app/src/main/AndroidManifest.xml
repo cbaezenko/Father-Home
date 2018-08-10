@@ -108,7 +108,8 @@
             android:name=".ui.view.songs.SongListActivity"
             android:parentActivityName=".ui.view.MainActivity">
         </activity>
-        <activity android:name=".ui.view.songs.SongDetailActivity"
+        <activity
+            android:name=".ui.view.songs.SongDetailActivity"
             android:parentActivityName=".ui.view.songs.SongListActivity">
         </activity>
     </application>

@@ -55,6 +55,14 @@ dependencies {
     implementation 'com.google.gms:google-services:4.0.1'
 
     //Firebase
+    implementation 'com.google.firebase:firebase-auth:16.0.1'
+
+    implementation 'com.firebaseui:firebase-ui-auth:4.1.0'
+
+//    // Find the latest Facebook SDK releases here: https://goo.gl/Ce5L94
+//    implementation 'com.facebook.android:facebook-android-sdk:4.34.0'
+
+
     implementation 'com.google.firebase:firebase-database:16.0.1'
     implementation 'com.google.firebase:firebase-core:16.0.1'
 

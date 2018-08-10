@@ -32,7 +32,7 @@
 
     <string name="mathew">Матфей</string>
     <string name="mark">Марк</string>
-    <string name="luke">Луке</string>
+    <string name="luke">Лука</string>
     <string name="jhon">Иоанн</string>
     <string name="about_missia">Миция</string>
     <string name="selected_language">Русский язык активен</string>
@@ -61,4 +61,16 @@
     <string name="about_father_home">О церкви Дом Отца</string>
     <string name="toolbar_title_song_detail">Song Detail</string>
     <string name="hymn_list">Прославление</string>
+    <string name="language_spanish">Испанский</string>
+    <string name="language_portuguese">Португальский</string>
+    <string name="channel_id">Канал Дом Отца</string>
+    <string name="channel_name">Канал Дом Отца</string>
+    <string name="channel_description">Дом Отца</string>
+    <string name="spinner_book">Список книг</string>
+    <string name="spinner_chapter">Список глав</string>
+    <string name="button_search">Кнопка поиска</string>
+    <string name="image_sos">Картинка темы</string>
+
+    <string name="added_to_favorites">в Избранном</string>
+    <string name="deleted_from_favorites">удалено из Избранного</string>
 </resources>
